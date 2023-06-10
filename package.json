@@ -1,0 +1,24 @@
+{
+  "name": "app.js",
+  "version": "1.0.0",
+  "description": "entrega final",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lepereyra/coder_final_js.git"
+  },
+  "keywords": [
+    "ecommerce",
+    "js",
+    "html"
+  ],
+  "author": "Lucas Pereyra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lepereyra/coder_final_js/issues"
+  },
+  "homepage": "https://github.com/lepereyra/coder_final_js#readme"
+}
